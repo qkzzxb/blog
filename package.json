@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkzzxb/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkzzxb/blog/issues"
+  },
+  "homepage": "https://github.com/qkzzxb/blog#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.10"
+  },
+  "resolutions": {
+    "webpack-dev-middleware": "3.6.0"
+  }
+}
